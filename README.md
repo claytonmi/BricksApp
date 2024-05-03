@@ -9,7 +9,7 @@ Sistema de pontuação para acompanhar o desempenho do jogador em cada fase.
 ### 📥 Instalação
 Para jogar Bricks, siga estas etapas simples:
 
-Faça o download do arquivo de instalação do jogo em [LINK DE DOWNLOAD](https://github.com/claytonmi/Bricks/raw/main/dist/brick.apk)
+Faça o download do arquivo de instalação do jogo em [LINK DE DOWNLOAD](https://github.com/claytonmi/BricksApp/raw/main/dist/brick.apk)
 
 Inicie o jogo com o arquivo Bricks.exe e divirta-se!
 
