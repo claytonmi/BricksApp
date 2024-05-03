@@ -26,7 +26,7 @@ Teclado: Movimenta a plataforma horizontalmente.
 Contribuições são bem-vindas! Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue neste repositório.
 
 ### 📋 Créditos
-Desenvolvido inicialmente por [Lianna](https://github.com/LiannaAragoni) e Clayton.
+Desenvolvido inicialmente por [Lianna](https://github.com/LiannaAragoni) e Clayton para computador.
 
 Versões posteriores do projeto foram realizadas por Clayton.
 
