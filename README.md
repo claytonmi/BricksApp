@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BricksApp
 =======
 # 🎮 Bricks - Jogo de Quebra-Cabeças em Unity
@@ -37,4 +36,3 @@ A arte em pixel foi elaborada por [Daru](https://twitter.com/PixelDaru).
 
 ### 📜 Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](https://github.com/claytonmi/Bricks/blob/main/LICENSE.txt) para obter mais detalhes.
->>>>>>> master
