@@ -1,5 +1,5 @@
 # BricksApp
-=======
+
 # 🎮 Bricks - Jogo de Quebra-Cabeças em Unity
 ### Descrição
 Bricks é um jogo de quebra-cabeças desenvolvido em Unity, onde o jogador controla uma plataforma móvel para rebater uma bola e destruir blocos. O objetivo é limpar todos os blocos de cada fase sem deixar a bola cair.
