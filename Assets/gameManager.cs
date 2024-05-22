@@ -13,6 +13,8 @@ public class gameManager : MonoBehaviour
     float startTime;
     float countdownDuration = 3f;
     private bool countingDown = false;
+    private float lastTouchTime = 0f;
+    private const float doubleTouchDelay = 0.3f;
 
     void Start()
     {
@@ -43,6 +45,18 @@ public class gameManager : MonoBehaviour
                 TogglePause();
             }
         }
+        if (Input.touchCount == 1 && Input.GetTouch(0).phase == TouchPhase.Began)
+        {
+            if (Time.time - lastTouchTime < doubleTouchDelay)
+            {
+                if (SceneManager.GetActiveScene().name == "Creditos")
+                {
+                    SceneManager.LoadScene("Menu");
+                }
+            }
+            lastTouchTime = Time.time;
+        }
+
     }
 
     public bool IsPaused()
